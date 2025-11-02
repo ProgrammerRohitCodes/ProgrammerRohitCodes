@@ -1,41 +1,30 @@
-# Hi there, I'm Rohit 👋  
+# 👋 Hey, I'm Rohit Nath  
 
-## 🚀 About Me  
+**AI/ML Engineer | Python Developer | Exploring Agentic AI**  
 
-- 🔭 I’m currently working on **Python, JavaScript, Agentic AI, and Machine Learning, and I also have a bit of knowledge of HTML & CSS**  
-- 🌱 Continuously exploring **new technologies** and adapting quickly to build impactful projects  
-- 👯 Open to **collaboration on AI/ML, Backend, and creative open-source projects**  
-- 💬 **I have the skill of self-learning — I’ve learnt all these things by myself**  
-- ⚡ Apart from coding, I love **listening to music 🎶** and have a deep interest in **photography 📸**
+I’m someone who genuinely enjoys making sense of data — turning raw numbers into things that *actually* work.  
+Most of my time goes into building and experimenting with **machine learning models**, cleaning and prepping data,  
+and exploring how **Agentic AI** can push boundaries beyond standard automation.
 
 ---
 
-## 🏆 Achievements  
-
-- ✅ Explored **Agentic AI** and built LLM-powered projects  
-- ✅ Built a strong foundation in **Backend Development**  
-- ✅ Created projects in **Machine Learning** like:  
-  - Stock Market Prediction Model 📈  
-  - House Price Prediction Model 🏡  
-- ✅ Developed multiple **Python GUI Projects**:  
-  - Calculator  
-  - Tic-Tac-Toe Game  
-  - Unit Converter  
-  - Currency Converter  
-  - Typing Speed Tester  
-  - Weather App  
-- ✅ Built **JavaScript games** like Tic-Tac-Toe, Rock-Paper-Scissors 🎮  
-- ✅ Built tools for **time management, CSV handling, and data visualization**  
+### What I’m about
+- Love building practical AI tools and projects that do real stuff, not just look smart  
+- Always experimenting, failing fast, and learning faster  
+- Big believer in self-learning and curiosity-driven development  
+- Currently diving deeper into **Generative AI**, **ML pipelines**, and **data preprocessing automation**
 
 ---
 
-## 🛠️ Tech Stack  
-
-- **Languages:** Python 🐍 | JavaScript ⚡  
-- **AI/ML:** Pandas, NumPy, Scikit-learn, LangGraph, LLMs 🤖  
-- **Backend:** Flask
-- **Other:** Git/GitHub, VS Code, HTML, CSS
+### Tech Stack
+- **Languages:** Python, html, cas, js
+- **Core Skills:** Machine Learning, Data Preprocessing, Agentic AI  
+- **Libraries & Tools:** Pandas, NumPy, Scikit-learn, Streamlit, Google Generative AI  
 
 ---
 
-✨ *This is just the beginning… I’ve built a lot, I’m building more, and I’ll keep sharing exciting projects regularly!* 🚀
+### Let’s Connect
+If you like what I’m building or want to collaborate, reach out:  
+**rohitnath49195@gmail.com**  
+[LinkedIn](https://www.linkedin.com/in/rohit-nath-319833359?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[Twitter/X](https://x.com/rohit_nath4368?t=hDWyZgIBOQQ2CLr8AUOcjA&s=09)
