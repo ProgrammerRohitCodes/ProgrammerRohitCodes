@@ -28,3 +28,12 @@ If you like what I’m building or want to collaborate, reach out:
 **rohitnath49195@gmail.com**  
 [LinkedIn](https://www.linkedin.com/in/rohit-nath-319833359?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 [Twitter/X](https://x.com/rohit_nath4368?t=hDWyZgIBOQQ2CLr8AUOcjA&s=09)
+
+---
+
+### ☕ Support My Work
+
+If you find my projects useful or just want to show some support —  
+you can **buy me a coffee** 💛  
+
+**UPI ID:** `8638476878@fam`  
