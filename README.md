@@ -31,7 +31,7 @@ If you like what I’m building or want to collaborate, reach out:
 
 ---
 
-### ☕ Support My Work
+### Support My Work
 
 If you find my projects useful or just want to show some support —  
 you can **buy me a coffee** 💛  
