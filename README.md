@@ -38,5 +38,10 @@ you can **buy me a coffee** 💛
 
 **UPI ID:** `8638476878@fam`  
 
-(or scan the QR below 👇)  
-![Buy me a coffee QR](IMG-20250730-WA0002.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/username/repo-name/main/qr.png" width="200" alt="Support QR">
+</p>
+
+<p align="center">Scan to support my work 💛</p>
+
+---
