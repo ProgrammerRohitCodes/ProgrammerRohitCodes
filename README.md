@@ -37,11 +37,3 @@ If you find my projects useful or just want to show some support —
 you can **buy me a coffee** 💛  
 
 **UPI ID:** `8638476878@fam`  
-
-<p align="center">
-  <img src="IMG-20250730-WA0002.jpg" width="200" alt="Support QR">
-</p>
-
-<p align="center">Scan to support my work 💛</p>
-
----
